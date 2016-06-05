@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "isd-parser", "isd-parser.fsproj", "{8926A53A-43AF-4A5B-93EB-D0ADFE88488D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8926A53A-43AF-4A5B-93EB-D0ADFE88488D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8926A53A-43AF-4A5B-93EB-D0ADFE88488D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8926A53A-43AF-4A5B-93EB-D0ADFE88488D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8926A53A-43AF-4A5B-93EB-D0ADFE88488D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
